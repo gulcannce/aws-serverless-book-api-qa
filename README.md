@@ -142,3 +142,7 @@ mvn test
 Tester: Gülcan Çelik
 Role: QA Engineer / Cloud QA
 GitHub: https://github.com/gulcannce
+
+⭐ Sonuç
+Bu proje, AWS altyapısı üzerinde çalışan serverless bir API’nin uçtan uca test edilmesi için hazırlanmıştır.
+Gerçek iş ortamında karşılaşılan Cloud QA senaryolarının büyük bir kısmını simüle eder.
